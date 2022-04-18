@@ -1,0 +1,5 @@
+C:\Users\17860\Desktop\C#Demo\Demo17\Demo17\bin\Debug\Demo17.exe.config
+C:\Users\17860\Desktop\C#Demo\Demo17\Demo17\bin\Debug\Demo17.exe
+C:\Users\17860\Desktop\C#Demo\Demo17\Demo17\bin\Debug\Demo17.pdb
+C:\Users\17860\Desktop\C#Demo\Demo17\Demo17\obj\Debug\Demo17.exe
+C:\Users\17860\Desktop\C#Demo\Demo17\Demo17\obj\Debug\Demo17.pdb
