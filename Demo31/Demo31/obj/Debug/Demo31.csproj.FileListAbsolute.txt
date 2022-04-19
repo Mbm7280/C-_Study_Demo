@@ -1,0 +1,6 @@
+C:\Users\17860\Desktop\C#Demo\Demo31\Demo31\bin\Debug\Demo31.exe.config
+C:\Users\17860\Desktop\C#Demo\Demo31\Demo31\bin\Debug\Demo31.exe
+C:\Users\17860\Desktop\C#Demo\Demo31\Demo31\bin\Debug\Demo31.pdb
+C:\Users\17860\Desktop\C#Demo\Demo31\Demo31\obj\Debug\Demo31.csprojResolveAssemblyReference.cache
+C:\Users\17860\Desktop\C#Demo\Demo31\Demo31\obj\Debug\Demo31.exe
+C:\Users\17860\Desktop\C#Demo\Demo31\Demo31\obj\Debug\Demo31.pdb

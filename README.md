@@ -24,3 +24,8 @@ C# 学习
 	Demo28		字符串常用操作：替换字符串
 	Demo29		流程控制语句：跳过
 	Demo30		流程控制语句：Goto的使用
+	Demo31 		数组
+	Demo32 		ArrayList
+	Demo33 		Hashtable
+	Demo34 		访问修饰符
+	Demo35		struct 结构
